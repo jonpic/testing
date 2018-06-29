@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = 'c4f58ae0638f47fab9c76ee584241fcb'; // Your client id
 var client_secret = '31233dfa2e3745dea4cdeef7b406324f'; // Your secret
-var redirect_uri = 'file:///Users/jonpic/Desktop/PennBootcamp/homework/testing/public/index2.html'; // Your redirect uri
+var redirect_uri = 'https://jonpic.github.io/testing/public/index2.html'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
